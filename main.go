@@ -1,14 +1,11 @@
 package main
 
 import (
-	//"fmt"
-	"github.com/hajimehoshi/ebiten"
+	"Pong-Go/pong"
 	"image/color"
 	"log"
 
-	//"image"
-	//"image/draw"
-	"./pong"
+	"github.com/hajimehoshi/ebiten"
 )
 
 const (
